@@ -4,7 +4,7 @@
 **Öğrenci No:** 24LITT039  
 **Ders:** Veri Analizinde Bilgisayar Programlama 2
 
-📊 **Canlı rapor:** https://KULLANICI_ADIN.github.io/sera-gazi-analizi/
+📊 **Canlı rapor:** https://emi663.github.io/sera-gazi-analizi/
 
 > ⚠️ `KULLANICI_ADIN` kısmını kendi GitHub kullanıcı adınla değiştir.
 
